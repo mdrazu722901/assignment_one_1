@@ -1,0 +1,118 @@
+     body {
+         font-family: 'Roboto', sans-serif;
+     }
+     
+     section {
+         height: 500px;
+         padding-bottom: 150px;
+     }
+     
+     .hife-width {
+         width: 40%;
+         float: left;
+         margin: 5%;
+     }
+     
+     h1 {
+         font-size: 50px;
+     }
+     
+     span {
+         color: tomato;
+         padding-right: 5px;
+     }
+     
+     p {
+         line-height: 30px;
+         padding-bottom: 20px;
+     }
+     
+     .hife-width img {
+         width: 100%;
+     }
+     
+     .anchr {
+         color: white;
+         background-image: linear-gradient(45deg, lightsalmon, tomato);
+         padding: 20px 30px;
+         text-decoration: none;
+         border-radius: 5px;
+     }
+     
+     .anchr:hover {
+         background-image: linear-gradient(90deg, tomato, lightsalmon);
+         color: red;
+         box-shadow: 2px 2px 5px black;
+     }
+     
+     .lastet-section {
+         text-align: center;
+         background-color: whitesmoke;
+         padding: 50px 0px;
+     }
+     
+     .one {
+         width: 25%;
+         background-color: white;
+         padding: 10px;
+         border-radius: 20px;
+         margin: 3%;
+         height: 350px;
+         float: left;
+     }
+     
+     .one:hover {
+         box-shadow: 10px 10px 20px turquoise;
+     }
+     
+     .one h3 {
+         text-align: left;
+     }
+     
+     .one p {
+         text-align: left;
+     }
+     
+     .one img {
+         width: 80%;
+         height: 60%;
+         border-radius: 5px;
+     }
+     
+     .last-section {
+         padding: 100px;
+         position: relative;
+     }
+     
+     .main {
+         background-image: url("img/Group_33094_1.png");
+         background-repeat: no-repeat;
+         background-position: center;
+         border-radius: 10px;
+         height: 150px;
+     }
+     
+     .text {
+         float: left;
+         padding: 0px 150px;
+     }
+     
+     .text h1 {
+         color: white;
+     }
+     
+     .more {
+         color: white;
+         background-image: linear-gradient(45deg, lightsalmon, tomato);
+         margin-top: 40px;
+         text-decoration: none;
+         border-radius: 5px;
+         padding: 20px 30px;
+         position: absolute;
+     }
+     
+     .more:hover {
+         background-image: linear-gradient(90deg, tomato, lightsalmon);
+         color: red;
+         box-shadow: 2px 2px 5px black;
+     }
